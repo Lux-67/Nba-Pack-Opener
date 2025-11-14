@@ -1,0 +1,22 @@
+{
+  "Common": [
+    {"name": "Austin Reaves", "overall": 79, "rarity": "Common"},
+    {"name": "Josh Hart", "overall": 78, "rarity": "Common"}
+  ],
+  "Uncommon": [
+    {"name": "Tyrese Maxey", "overall": 85, "rarity": "Uncommon"},
+    {"name": "Jalen Brunson", "overall": 87, "rarity": "Uncommon"}
+  ],
+  "Rare": [
+    {"name": "Jimmy Butler", "overall": 90, "rarity": "Rare"},
+    {"name": "Kyrie Irving", "overall": 91, "rarity": "Rare"}
+  ],
+  "Epic": [
+    {"name": "Stephen Curry", "overall": 97, "rarity": "Epic"},
+    {"name": "Kevin Durant", "overall": 96, "rarity": "Epic"}
+  ],
+  "Legendary": [
+    {"name": "Michael Jordan", "overall": 99, "rarity": "Legendary"},
+    {"name": "Kobe Bryant", "overall": 99, "rarity": "Legendary"}
+  ]
+}
