@@ -1,0 +1,15 @@
+nba_pack_game/
+│
+├── main.py
+├── data/
+│   ├── players.json
+│   ├── save.json
+│   ├── sounds/
+│   │     ├── open.wav
+│   │     └── rare.wav
+│   └── images/
+│         ├── common.png
+│         ├── uncommon.png
+│         ├── rare.png
+│         ├── epic.png
+│         └── legendary.png
